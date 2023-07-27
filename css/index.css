@@ -40,6 +40,7 @@ p {
   height: 50%;
   width: 100%;
   object-fit: cover;
+  opacity: 0.7;
 }
 
 .intro {
@@ -205,10 +206,13 @@ h1 {
 .receipt-item {
   text-align: center;
   font-size: 20px;
+  padding: 5px;
+  background-color: #F8FDCF;
 }
 
 .receipt-img {
   width: 100%;
+  border: 2px solid black;
 }
 
 .favorite {
@@ -223,6 +227,7 @@ h1 {
   height: 150px;
   text-align: center;
   object-fit: cover;
+  border: 2px solid black;
 }
 
 .favorite-text {
