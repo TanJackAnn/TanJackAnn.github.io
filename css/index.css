@@ -55,7 +55,7 @@ p {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
-  color: darkblue;
+
 }
 
 .cake2 {
@@ -111,15 +111,17 @@ h1 {
 }
 
 .art-bold {
-  font-size: 22px;
+  font-size: 24px;
   font-weight: bold;
   margin-top: 20px;
+  padding: 0 20px;
 }
 
 .art-text {
   font-size: 20px;
   margin: 30px 10px;
-  color: darkblue;
+  text-align: center;
+
 }
 
 .cake3 {
@@ -153,13 +155,14 @@ h1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   font-size: 20px;
-  color: darkblue;
+
 }
 
 .about-text {
   margin-top: 10px;
   font-size: 20px;
-  color: darkblue;
+  line-height: 25px;
+
 }
 
 .line {
@@ -232,7 +235,7 @@ h1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   font-size: 20px;
-  color: darkblue;
+
 }
 
 .blog-img {
