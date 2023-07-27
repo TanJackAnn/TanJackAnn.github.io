@@ -127,9 +127,10 @@ h1 {
 
 }
 
-.cake3 {
+.art-img {
   width: 100%;
-  height: 300px;
+  margin: 5px;
+  padding-left: 30px;
   object-fit: cover;
 }
 
