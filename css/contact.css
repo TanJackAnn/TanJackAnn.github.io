@@ -28,6 +28,29 @@ body {
     place-items: center;
 }
 
+.menu {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+}
+
+.icon {
+    width: 40px;
+    text-align: left;
+}
+
+.menu-list {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.menu-list>a {
+    text-decoration: none;
+    padding: 15px 15px;
+    margin: 5px;
+}
+
 .form_title {
     font-weight: 300;
     margin: 0;
