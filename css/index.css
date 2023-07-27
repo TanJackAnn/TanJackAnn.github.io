@@ -108,7 +108,7 @@ h2 {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 25px;
   border-bottom: 2px solid black;
   text-align: center;
 }
@@ -176,7 +176,7 @@ h1 {
 
 .about-blue {
   font-size: 25px;
-  color: blue;
+  color: rgb(13, 39, 73);
   font-weight: bold;
   margin-top: 10px;
 }
